@@ -36,5 +36,6 @@ This project evaluates different language learning models based on IMDB reviews 
 Eventually I will go back and use a GPU to add BERT.
 
 <h2>Sample Graph</h2>
+
 ![image](https://github.com/LDeYoung17/film-junkie-union/assets/70500225/c8558281-e043-418a-8707-324986f27616)
 
