@@ -33,9 +33,16 @@ This project evaluates different language learning models based on IMDB reviews 
 
 <h2>Plans for Updates</h2>
 
-Eventually I will go back and use a GPU to add BERT.
+Upload the notebook to Google Colab to use GPU in order to test and run the code that is written for the BERT model.
 
 <h2>Sample Graph</h2>
 
 ![image](https://github.com/LDeYoung17/film-junkie-union/assets/70500225/c8558281-e043-418a-8707-324986f27616)
+
+
+<h2>Portfolio Link</h2>
+
+https://ldeyoung17.github.io/
+
+This is my portfolio where all my projects, including this one, can be found, as well as more information about my experience as a Data Scientist and Software Engineer.
 
