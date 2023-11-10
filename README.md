@@ -1,4 +1,4 @@
-# film-junkie-union
+# Natural Language Processing on Movie Reviews
 
 <h2>Summary</h2>
 
