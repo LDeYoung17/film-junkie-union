@@ -38,6 +38,9 @@ Upload the notebook to Google Colab to use GPU in order to test and run the code
 
 ![image](https://github.com/LDeYoung17/film-junkie-union/assets/70500225/c8558281-e043-418a-8707-324986f27616)
 
+<h2>Demonstration Video</h2>
+
+https://drive.google.com/file/d/1UXtDQ4QrGxaSA7Dod2Zb0RM_Nr6R_c7c/view?usp=drive_link
 
 <h2>Portfolio Link</h2>
 
